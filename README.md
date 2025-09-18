@@ -8,13 +8,12 @@
 </div> 
 
 * DESENVOLVIMENTO FULL STACK- 
-* Disciplina: RPG0024  - Posso criar um App de outra forma.
-* Semestre Letivo: 2024.1
-* Repositorio Git:https://github.com/Gregdev22/Missao-2-Mundo-4
-
+* Disciplina: DGT2812  - Posso criar um App de outra forma.
+* Semestre Letivo: 2025.2
+* Repositorio Git:https://github.com/noxxcanjo/Missao-2-Mundo-4/
 <hr>
 
-* [EMERSON GREGORIO ALVES](https://github.com/Gregdev22) - MATRICULA: 2022.0908.4986
+* [Gabriel Arcanjo Garrido ](https://github.com/noxxcanjo) - MATRICULA:  2024.02.62009-6
 <hr>
  <h1 align="center"> Missão Prática | Nível 2 | Mundo 4 </h1>
  <h2 align="left" > Posso criar um App de outra forma. </h2> 
@@ -957,10 +956,6 @@ class PostBottomBar extends StatelessWidget {
 
 <br>
 
-
-
-
-https://github.com/Gregdev22/Missao-2-Mundo-4/assets/103840468/b40dbb22-9832-4a09-9b50-f31196c46bb4
 
 
 
